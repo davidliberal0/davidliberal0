@@ -1,7 +1,7 @@
 Hi 👋 My name is David Liberal
 ==============================
 
-Front-End Engineer
+Software Engineer
 ------------------
 
 I am a self-taught developer with a passion in front-end development. I spend a majority of my free time working on personal projects and learning new technologies.

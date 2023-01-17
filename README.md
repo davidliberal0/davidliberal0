@@ -4,7 +4,7 @@ Hi 👋 My name is David Liberal
 Software Engineer
 ------------------
 
-I am a self-taught developer with a passion in front-end development. I spend a majority of my free time working on personal projects and learning new technologies.
+I am a software developer with a passion in front-end development. I spend a majority of my free time working on personal projects and learning new technologies.
 
 * 🌍  I'm based in Orlando, FL
 * ✉️  You can contact me at [dliberal1022@gmail.com](mailto:dliberal1022@gmail.com)

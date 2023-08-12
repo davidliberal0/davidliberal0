@@ -1,14 +1,14 @@
 Hi 👋 My name is David Liberal
 ==============================
 
-Software Developer
+
 ------------------
 
-I am a software developer with a passion in front-end development. I spend a majority of my free time working on personal projects and learning new technologies.
+I am a Computer Science student with a passion in full-stack development. I spend a majority of my free time working on personal projects and learning new technologies.
 
 * 🌍  I'm based in Virginia Beach, Va.
 * ✉️  You can contact me at [dliberal1022@gmail.com](mailto:dliberal1022@gmail.com)
-* 🧠  I'm learning React and TypeScript
+* 🧠  I'm learning Python, React, TypeScript
 * 🤝  I'm open to collaborating on PokeExpert (a modern and minimal online pokedex)
 
 ### Skills

@@ -59,9 +59,5 @@ I am a Computer Science student with a passion in full-stack development. I spen
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/davidliberal0"><img src="https://github-readme-stats.vercel.app/api?username=davidliberal0&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="davidliberal0's GitHub stats" /></a>
-
-<a href="http://www.github.com/davidliberal0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=davidliberal0&stroke=ffffff&background=000000&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/davidliberal0"><img src="https://activity-graph.herokuapp.com/graph?username=davidliberal0&bg_color=000000&color=ffffff&line=14b8a6&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+![davidliberal0's Stats](https://github-readme-stats.vercel.app/api?username=davidliberal0&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
+![davidliberal0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidliberal0&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)

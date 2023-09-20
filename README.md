@@ -54,10 +54,15 @@ I am a Computer Science student with a passion in full-stack development. I spen
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<br>
+
 <p align="left"> <a href="https://www.github.com/davidliberal0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/david-liberal-2380b21b3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+<br/>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 ![davidliberal0's Stats](https://github-readme-stats.vercel.app/api?username=davidliberal0&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
+<br><br/>
 ![davidliberal0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidliberal0&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)

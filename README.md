@@ -8,7 +8,7 @@ I am a Computer Science student with a passion in full-stack development. I spen
 
 * 🌍  I'm based in Orlando, FL
 * ✉️  You can contact me at [dliberal1022@gmail.com](mailto:dliberal1022@gmail.com)
-* 🧠  I'm learning Mobile Development w/ React Native
+* 🧠  I'm learning Data Science and Machine Learning!
 * 🤝  I'm open to collaborating on PokeExpert (a modern and minimal online pokedex)
 
 <br>

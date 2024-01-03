@@ -58,10 +58,6 @@ I am a Computer Science student with a passion in full-stack development. I spen
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br><br/>
-
-### Badges
-
 ### My GitHub Stats
 ![davidliberal0's Stats](https://github-readme-stats.vercel.app/api?username=davidliberal0&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
 <br><br/>

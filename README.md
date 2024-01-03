@@ -62,7 +62,7 @@ I am a Computer Science student with a passion in full-stack development. I spen
 
 ### Badges
 
-<b>My GitHub Stats</b>
+My GitHub Stats
 ![davidliberal0's Stats](https://github-readme-stats.vercel.app/api?username=davidliberal0&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
 <br><br/>
 ![davidliberal0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidliberal0&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)

@@ -12,7 +12,7 @@ I am a Computer Science student with a passion in full-stack development. I spen
 * 🤝  I'm open to collaborating on PokeExpert (a modern and minimal online pokedex)
 
 [![](https://img.shields.io/badge/WEBSITE-2ea44f?style=for-the-badge&logo=react)](https://davidliberal.com)
-[![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://davidliberal.com/resume.pdf)
+[![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://davidliberal.com/David_Liberal_Resume.pdf)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidliberal/)
 
 <br>

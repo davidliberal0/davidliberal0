@@ -6,9 +6,8 @@ Hi 👋 My name is David Liberal
 
 I am a Computer Science student with a passion in full-stack development. I spend a majority of my free time working on personal projects and learning new technologies.
 
-* 🌍  I'm based in Orlando, FL
 * ✉️  You can contact me at [dliberal1022@gmail.com](mailto:dliberal1022@gmail.com)
-* 🧠  I'm learning Data Science and Machine Learning!
+* 🧠  I'm learning Java!
 * 🤝  I'm open to collaborating on PokeExpert (a modern and minimal online pokedex)
 
 [![](https://img.shields.io/badge/WEBSITE-2ea44f?style=for-the-badge&logo=react)](https://davidliberal.com)

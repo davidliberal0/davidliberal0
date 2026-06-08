@@ -4,10 +4,10 @@ Hi 👋 My name is David Liberal
 
 ------------------
 
-I am a Computer Science student with a passion in full-stack development. I spend a majority of my free time working on personal projects and learning new technologies.
+I am a Software Engineer with a passion in Back-End Systems & Embedded Development. I spend a majority of my free time working on personal projects and learning new technologies.
 
 * ✉️  You can contact me at [dliberal1022@gmail.com](mailto:dliberal1022@gmail.com)
-* 🧠  I'm learning Java!
+* 🧠  I'm learning Java & C++!
 * 🤝  I'm open to collaborating on PokeExpert (a modern and minimal online pokedex)
 
 [![](https://img.shields.io/badge/WEBSITE-2ea44f?style=for-the-badge&logo=react)](https://davidliberal.com)
